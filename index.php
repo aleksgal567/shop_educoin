@@ -7,8 +7,6 @@ include_once $_SERVER["DOCUMENT_ROOT"]."/parts/head.php";
 include_once $_SERVER["DOCUMENT_ROOT"]."/parts/top_nav.php";
 
 ?>
-
-
 <div class="container">
     <div class="row m-2">
         <div class="col-2">
